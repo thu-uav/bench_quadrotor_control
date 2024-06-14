@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>vbat_thrust_calibration</name>
+  <version>0.0.0</version>
+  <description>The vbat_thrust_calibration package</description>
+
+  <maintainer email="yushuang20010911@outlook.com">Shu'ang Yu</maintainer>
+  <license>MIT</license>
+
+  <author>Shu'ang Yu</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+
+  <depend>nav_msgs</depend>
+  <depend>quadrotor_msgs</depend>
+  <depend>mavros_msgs</depend>
+
+  <depend>rospy</depend>
+
+  <export>
+
+  </export>
+
+</package>
